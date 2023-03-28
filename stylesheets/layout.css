@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "Gilroy";
+    font-weight: normal, bolder, bold, lighter;
+    /* src: url('../fonts/Gilroy.ttf') format('truetype'); */
+    src: url('../fonts/Gilroy-Medium.ttf') format('truetype');
+    }
