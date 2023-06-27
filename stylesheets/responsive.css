@@ -1,0 +1,23 @@
+    @media (max-width: 1150px) {
+  h1 {
+    font-size:5vw;
+  }
+  p {
+    font-size:2vw;
+  }
+  h3 {
+    font-size:4vw;
+  }
+  .button {
+    font-size: 0.9em;
+  }
+  h2 {
+    font-size:4vw;
+  }
+  .text-align {
+    text-align: center !important;
+  }
+  .firstscreen p {
+    width: 60%;
+  }
+}
