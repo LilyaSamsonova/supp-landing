@@ -22,7 +22,7 @@
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 680px) {
     .button {
       font-size:4vw;
     }
