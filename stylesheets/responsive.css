@@ -21,3 +21,72 @@
     width: 60%;
   }
 }
+
+@media (max-width: 450px) {
+    .button {
+      font-size:4vw;
+    }
+    .logo {
+        width: 23.780423%;
+        height: 8vw;
+    }
+    .firstscreen {
+        position: relative;
+        /* display: block; */
+        width: 100%;
+        height: 100vh;
+        border-radius: 0 0 32px 32px;
+        /* padding-bottom: 48.006vw; */
+        background-image: url(../images/im1.png);
+        background-size: cover !important;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-position: top;
+        /* opacity: .2; */
+        z-index: 1;
+    }
+    .phone1 {
+        position: absolute;
+        display: block;
+        width: 82.354497%;
+        height: 71.0794297%;
+        background-image: url(../images/iphone1.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        top: 29%;
+        left: 8%;
+        animation: none;
+        animation-delay: 1s;
+    }
+    h1 {
+        font-size: 8vw;
+    }
+    .title {
+        top: 10%;
+        position: absolute;
+        left: 10%;
+        width: fit-content;
+    }
+    .firstscreen h1 {
+        width: 90%;
+        text-align: center;
+        /* top: 13.5%; */
+        color: #FFFFFF;
+        margin: 0;
+    }
+    p {
+        font-size: 4vw;
+    }
+    .firstscreen p {
+        position: relative;
+        color: #FFFFFF;
+        text-align: center;
+        margin-left: 18px;
+        width: 60%;
+        margin-top: 20px;
+    }
+    .firstscreen p {
+        width: 80%;
+    }
+}
